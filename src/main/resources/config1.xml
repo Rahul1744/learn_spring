@@ -8,4 +8,9 @@
         <constructor-arg name="name" value="Rahul"/>
         <constructor-arg name="age" value="26"/>
     </bean>
+
+    <bean id="student1" class = "org.example.prgm1.Student">
+        <constructor-arg name="name" value="Bhushan"/>
+        <constructor-arg name="age" value="24"/>
+    </bean>
 </beans>
