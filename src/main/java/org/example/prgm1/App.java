@@ -15,6 +15,5 @@ public class App {
 
         Student student1 = (Student) factory.getBean("student1");
 
-        System.out.println(student1);
     }
 }

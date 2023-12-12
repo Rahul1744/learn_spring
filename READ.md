@@ -15,5 +15,14 @@ It is used to return the instance of its own class. Static factory methods are u
 It is used to return the runtime instance of another class.
 ## Type 3: Non-Static Factory Method 
 Returning instance of another class
+## prgm6: Bean life cycle in Java Spring
+## Ways to implement the life cycle of a bean
+## 1:by_xml
+## 2:programmatic
+## 3:using_annotation
+## prgm7: 2ways creating beans
+## 1:xml_base
+## 2:component and bean
+
 
 
