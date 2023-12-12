@@ -7,3 +7,13 @@
 ## prgm2: Dependency Injection.
 ## prgm3: Injecting Objects By Constructor Injection.
 ## read2: Setter Injection with Map (https://www.geeksforgeeks.org/spring-setter-injection-with-map/)
+## prgm4: Singleton (refer: https://youtu.be/KUTqnWswPV4?si=-OpwTQzrhDxUVK4k)
+## prgm5: Factory method 
+##  Type 1: Static Factory Method
+It is used to return the instance of its own class. Static factory methods are used for Singleton Design Pattern.
+## Type 2: Static Factory Method
+It is used to return the runtime instance of another class.
+## Type 3: Non-Static Factory Method 
+Returning instance of another class
+
+
