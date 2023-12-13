@@ -23,6 +23,11 @@ Returning instance of another class
 ## prgm7: 2ways creating beans
 ## 1:xml_base
 ## 2:component and bean
+## Autowire (ways of injecting autowire.)
+## 1.byname
+## 2.bytype
+## 3.constructor
+## 4.Annotation
 
 
 
