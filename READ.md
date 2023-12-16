@@ -31,6 +31,9 @@ Returning instance of another class
 ## prgm9: Singleton and Prototype Bean Scopes in Java Spring
 ## prgm 10: Spring – Expression Language(SpEL)
 ## prgm11: Spring c-namespace with Example
+## prgm12: Parse Nested User-Defined Functions using Spring Expression Language (SpEL)
+## prgm13: Circular Dependencies in Spring
+
 
 
 
