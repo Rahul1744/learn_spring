@@ -35,6 +35,7 @@ Returning instance of another class
 ## prgm13: Circular Dependencies in Spring
 ## prgm14: Spring Framework Standalone Collections
 ## prgm15: Spring – BeanPostProcessor
-
+## read3: Spring and JAXB Integration
+## read4: Spring – Difference Between Dependency Injection and Factory Pattern
 
 
